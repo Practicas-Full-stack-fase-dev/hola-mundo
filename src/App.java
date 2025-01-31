@@ -9,6 +9,8 @@ public class App {
         resta.restar(10, 1);
         saludo msj = new saludo();
         msj.saludar();   
+        Jugar isaac = new Jugar();
+        isaac.Jugando();
 
     }
     public static void suma(int x, int y){
