@@ -24,5 +24,9 @@ public class App {
         System.out.println(result);
         return result;
     }
+    //Este es un comentario en bloque 
+     /* 
+     * Ejemplo
+     */
 }
 
